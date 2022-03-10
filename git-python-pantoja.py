@@ -1,3 +1,7 @@
 print("Gerson O. Pantoja")
 print("Masiga, Gasan, Marinduque")
 print("October 22, 2001")
+print("Marinduque State College")
+print("Information Technology")
+print("Second Year")
+print("Section C")
